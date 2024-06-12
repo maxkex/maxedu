@@ -3,7 +3,7 @@ import Code12.Code12;
 import Code12.Code12Program;
 public class MaxApp extends Code12Program
 {
-   // The main entry point
+      // The main entry point for code12 runner in Visual Studio Code
    public static void main(String[] args)
    {
       Code12.run(new MaxApp()); 
