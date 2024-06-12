@@ -1,13 +1,17 @@
+/*
 package csci12;
 import Code12.Code12;
 import Code12.Code12Program;
-public class MaxApp extends Code12Program
+*/
+public class KebetsProgram01 extends Code12Program
 {
+   /*
    // The main entry point for code12 runner in Visual Studio Code
    public static void main(String[] args)
    {
-      Code12.run(new MaxApp()); 
+      Code12.run(new KebetsProgram01()); 
    }
+   */
    // Start the program
    public void start()
    {
