@@ -9,9 +9,10 @@ public class maxApp extends Code12Program
       Code12.run(new maxApp()); 
    }
    // Start the program
-   @Override
    public void start()
    {
-      ct.text( "Hello from Code12!", 50, 50, 15 );
+      ct.text( "Hello from Code12!", 40, 10, 4, "red");
+      ct.circle( 10, 10, 20, "blue");
+      ct.rect(20, 20, 20, 10, "green");
    }
 }   // End of class
