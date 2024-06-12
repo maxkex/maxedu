@@ -1,7 +1,9 @@
 # CSCI12
-Textbook: [Java for Everyone: Late Objects, 2nd Edition](https://drive.google.com/file/d/1LA1Wo_v0Onu8QsjWJ_rYHG-fvKtvEFSh/view?usp=share_link) By [Cay S Horstmann](https://horstmann.com) 
+- [code12 API documentation](https://code12.org/docs/1/API.html#ct.circle)
 
-[Markdown syntax](https://www.markdownguide.org/cheat-sheet/) for .md documents
+- Textbook: [Java for Everyone: Late Objects, 2nd Edition](https://drive.google.com/file/d/1LA1Wo_v0Onu8QsjWJ_rYHG-fvKtvEFSh/view?usp=share_link) By [Cay S Horstmann](https://horstmann.com) 
+
+- [Markdown syntax](https://www.markdownguide.org/cheat-sheet/) for .md documents
 
 # Project Setup
 
