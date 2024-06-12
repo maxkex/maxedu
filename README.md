@@ -5,9 +5,9 @@ Textbook: [Java for Everyone: Late Objects, 2nd Edition](https://drive.google.co
 
 # Project Setup
 
-Using Visual Studio Code on MAC, Create new Java/Maven project:
+Using Visual Studio Code, Create new Java/Maven project:
 - Open the Command Palette (Cmd+Shift+P on macOS).
-- >java: create Java Project
+- java: create Java Project
 - select build tool: Maven
 - select: maven-archetype-quickstart 1.4
 - GroupID/package: csci12
